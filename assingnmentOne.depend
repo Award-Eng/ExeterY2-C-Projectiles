@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1539256884 source:c:\users\alecw\documents\computerprogramming\c\assingnmentone\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
